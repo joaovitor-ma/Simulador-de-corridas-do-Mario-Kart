@@ -40,7 +40,7 @@
 <tr>
     <td style="border: 1px solid; width: 110px; text-align: center">
         Bowser<br>
-        <img src="https://images.gamebanana.com/img/ico/sprays/bowser_cart___render.gif " alt="img">
+        <img src="https://images.gamebanana.com/img/ico/sprays/bowser_cart___render.gif" alt="img">
     </td>
     <td style="border: 1px solid; width: 150px">
         Velocidade: 5<br>

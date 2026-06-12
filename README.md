@@ -85,3 +85,6 @@ Deverão ser selecionados dois personagens para disputar uma corrida entre si
 
 #### 🥇Condição de vitória
 Vence aquele que, ao final das 5 rodadas, tiver mais pontos acumulados
+
+## Rodando o projeto
+Para rodar o projeto, abra o terminal dentro do diretório **raiz** e execute o comando: `node src/index.js`

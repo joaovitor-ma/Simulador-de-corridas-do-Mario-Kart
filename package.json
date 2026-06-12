@@ -1,0 +1,13 @@
+{
+  "name": "simulador-corrida-mario-kart",
+  "version": "1.0.0",
+  "description": "jogo de terminal para simular uma disputa entre dois personagens do jogo Mario Kart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joaovitor-ma",
+  "license": "ISC",
+  "type": "commonjs"
+}
